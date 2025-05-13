@@ -1,6 +1,6 @@
 # Hello World I,m Dicky Yahya 👋
 
-![yahya](img/couple.jpg)
+![yahya](img/github-header-image.png)
 
 <!--
 **dickyyahya/dickyyahya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
